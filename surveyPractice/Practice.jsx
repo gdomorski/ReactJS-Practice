@@ -4,9 +4,9 @@ var Practice = React.createClass({
 	render: function () {
 		return (
 
+			//this is a lot of code below and it is very repetitive. When coding it is important to make sure it works first, then you can refactor to make it better.
+			//I will be making another file to show a refactored version of this code.
 			<div className="container">
-			
-				
 				<form>
 					<p className="h3">Who is your favorite movie star?</p>
 
