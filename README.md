@@ -1,5 +1,5 @@
 # ReactJS-Practice
 
-React is an awesome emerging framework that is fun to learn. Although it is more of a "view" than a complete framework like Angular, it is very useful. Basically it bundles HTML / Javascript, called "components". JSX makes components easily understandable.
+React is an awesome emerging framework that is fun to learn. Basically it bundles HTML / Javascript, into "components". JSX makes components easily understandable.
 
-I have been following Tyler McGinnis' React Tutorial online. I have also been watching multiple youtube videos.
+I have been following Tyler McGinnis' React Tutorial online. Jesse Skinner's tutorial has also been helpful. I have  been watching multiple youtube videos as well and it has been a ton of fun!
