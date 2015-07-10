@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Domorski Movie Star Survey</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+</head>
+<body>
+
+<!-- Links to all the React files. I put the script and transformer first, so it loads before the other files -->
+<script src="http://fb.me/react-0.12.2.js"></script>
+<script src="http://fb.me/JSXTransformer-0.12.2.js"></script>
+<script src="practice.jsx" type="text/jsx"></script>
+<script src="options.jsx" type="text/jsx"></script>
+<script src="otheroption.jsx" type="text/jsx"></script>
+<script type="text/jsx">
+
+//React.render takes in two arguments. The first argument is the component you want to render, the second argument is the DOM node where you want to render the component. For now i just rendered it to the body.
+React.render(<Practice />, document.body);
+</script>
+
+</body>
+</html>
